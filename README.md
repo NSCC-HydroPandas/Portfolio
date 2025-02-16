@@ -124,9 +124,7 @@ Research Team Member under Dr. Stefanakis at the University of New Brunswick
 
 - A.W McLaughlin Scholarship in Geomatics Engineering (2017)
 
-- Natural Sciences and Engineering Research Council of Canada Undergraduate Student
-
-Research Award (USRA) (January 2016- April 2016)
+- Natural Sciences and Engineering Research Council of Canada Undergraduate Student - Research Award (USRA) (January 2016- April 2016)
 
 - Royal Canadian Electrical and Mechanical Engineers (RCEME) Bursary Award (2015)
 
