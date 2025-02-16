@@ -126,8 +126,7 @@ Nashwaak Water Shed Association Volunteer 2017 - May 2019
 
 <body style="text-align: center;">
     <h3>
-        Click on GeeksforGeeks logo to
-        Redirect into geeksforgeeks.org
+     Check Out My Linkdin Profile
     </h3>
     <a href="https://www.linkedin.com/in/michel-leger-b7a3a415a/">
       <img src="https://static.vecteezy.com/system/resources/previews/017/339/624/original/linkedin-icon-free-png.png" alt="Linkin" width="50" height="50">
