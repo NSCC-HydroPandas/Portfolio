@@ -5,6 +5,13 @@ Work: Michel.leger@dfo-mpo.gc.ca, Personal: Michel.Leger@unb.ca
 
 **EDUCATION**
 ----------
+**Nova Scotia Comunity College** (IT Campus)
+**September 2024- Present**
+- Machine Learning using scikitlearn, pytorch
+- Python, react, javascript
+- Data cleaning, mainpulation, anaylysis using panada libraries for machine learning
+- data display to users using matplotlib and seaborn python libraries.
+
 **University of New Brunswick** (Fredericton Campus) 
 **September 2014 – May 2019**
 
