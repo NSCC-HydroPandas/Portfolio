@@ -112,11 +112,13 @@ Research Team Member under Dr. Stefanakis at the University of New Brunswick
 
 **AWARDS/ ACHIEVEMENT**
 ----------
+-  [Publication in IHR - Leger, M., Gong, J., Church, I. 2019, From volunteer ping to community map – The CHS’ Community Hydrography Program, No. 30, May 2024](https://ihr.iho.int/articles/from-volunteer-ping-to-community-map-the-chs-community-hydrography-program/)
+
 - Government of Canadas Immediate Award for development of scripts and enhancements to data processing (December 2019 & May 2021)
 
 - Presenter at USHYDRO (September 2021)
 
-- [Publication in IHR - Leger, M., Gong, J., Church, I. 2019, Vertical Assessment of Lidar Bathymetry. International Hydrographic Review, No. 22, November 2019, pp. 39-53](https://ihr.iho.int/articles/from-volunteer-ping-to-community-map-the-chs-community-hydrography-program/)
+- [Publication in IHR - Leger, M., Gong, J., Church, I. 2019, Vertical Assessment of Lidar Bathymetry. International Hydrographic Review, No. 22, November 2019, pp. 39-53](https://journals.lib.unb.ca/index.php/ihr/article/view/31481/1882526698)
 
 - Competitor in National Geomatics Competition Fredericton NB (2018)
 
