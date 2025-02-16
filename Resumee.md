@@ -72,15 +72,15 @@ Student Assistant for Ocean Mapping Group and GGE Department (several work terms
  - Analyze and compare open source elevation data against LiDAR elevation data using digital elevation models (DEMs)
  - Understand and use software such as python programing language, QGIS and ArcMap to attain final deliverables
 
-**Walamrt Canada(Fredicton 3032)** April 2011 - January 2018
--Team based environment, lending assistant to team members and working individually and together to effectively and efficiently complete all tasks 
--Providing friendly and efficient service to costumers
--Understand and follow proper safety precautions when carrying out day to day task. Proper lifting and handling of materials, following equipment safety procedures with correct protective equipment, and dangerous goods and WHIMIS safety procedures
--Organization of work area, to be kept clean and hazard free to minimize and avoid accidents, and efficiently finish tasks
+**Walmart Canada(Fredicton 3032)** April 2011 - January 2018
+- Team based environment, lending assistant to team members and working individually and together to effectively and efficiently complete all tasks 
+- Providing friendly and efficient service to costumers
+- Understand and follow proper safety precautions when carrying out day to day task. Proper lifting and handling of materials, following equipment safety procedures with correct protective equipment, and dangerous goods and WHIMIS safety procedures
+- Organization of work area, to be kept clean and hazard free to minimize and avoid accidents, and efficiently finish tasks
 
 **Government of New Brunswick** May 2015 - August 2015
--Responsible for digitization of orthophoto imagery through web based software: Pictometry Online, as part of the modernization process of property assessment in New Brunswick
--Team progress meetings to collaborate and understand digitization areas to concentrate on together as a team
+- Responsible for digitization of orthophoto imagery through web based software: Pictometry Online, as part of the modernization process of property assessment in New Brunswick
+- Team progress meetings to collaborate and understand digitization areas to concentrate on together as a team
 
 **SKILLS AND TRAINING**
 ----------
