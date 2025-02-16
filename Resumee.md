@@ -125,5 +125,4 @@ Nashwaak Water Shed Association Volunteer 2017 - May 2019
 - Kids Ball hockey Volunteer and Fundraiser 2015-2017
 
 
-<img src="(images/OIP.jfif" alt="Linkdin" style="width:200px;"/>
-
+<img src="https://via.placeholder.com/150](https://static.vecteezy.com/system/resources/previews/017/339/624/original/linkedin-icon-free-png.png)" alt="Linkin" width="50" height="50">
