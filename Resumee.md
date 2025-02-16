@@ -7,14 +7,15 @@ Work: Michel.leger@dfo-mpo.gc.ca, Personal: Michel.Leger@unb.ca
 ----------
 **Nova Scotia Comunity College** (IT Campus)
 **September 2024- Present**
+Graduate Certificate IT Programming for Artificial Intelligence
 - Machine Learning using scikitlearn, pytorch
 - Python, react, javascript
 - Data cleaning, mainpulation, anaylysis using panada libraries for machine learning
 - data display to users using matplotlib and seaborn python libraries.
 
+
 **University of New Brunswick** (Fredericton Campus) 
 **September 2014 – May 2019**
-
 Bachelor of Science in Engineering in Geodesy Geomatics Engineering 
 - Completion of Oceanography, Water Level and Tides Elective Course.
 - Completion of Big Data Analytics course covering the fundamentals of data analysis and advance functions of Python programming language
