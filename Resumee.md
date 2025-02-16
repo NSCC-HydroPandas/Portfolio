@@ -124,5 +124,13 @@ Nashwaak Water Shed Association Volunteer 2017 - May 2019
 - Provided assistance with restoration of the Marysville Flats by assisting in planting silver maple trees
 - Kids Ball hockey Volunteer and Fundraiser 2015-2017
 
+<body style="text-align: center;">
+    <h3>
+        Click on GeeksforGeeks logo to
+        Redirect into geeksforgeeks.org
+    </h3>
+    <a href="https://www.linkedin.com/in/michel-leger-b7a3a415a/">
+      <img src="https://static.vecteezy.com/system/resources/previews/017/339/624/original/linkedin-icon-free-png.png" alt="Linkin" width="50" height="50">
+    </a>
+</body>
 
-<img src="https://via.placeholder.com/150](https://static.vecteezy.com/system/resources/previews/017/339/624/original/linkedin-icon-free-png.png)" alt="Linkin" width="50" height="50">
