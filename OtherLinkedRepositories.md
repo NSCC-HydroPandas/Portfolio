@@ -2,4 +2,4 @@
 
 # [Community Hydrography Data Proccessing](https://github.com/HydroPanadas/Datalogger_Processing_V1.1)
 
-# [Sensor CalibrationScript](https://github.com/HydroPanadas/SensorCompairson)
+# [Sensor Calibration Script](https://github.com/HydroPanadas/SensorCompairson)
